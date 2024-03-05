@@ -4,7 +4,7 @@ This repository serves to show my contributions to developing tools for Multy ro
 
 ## World Manager
 
-https://github.com/LazyTitanik/RVIZ-plugins/blob/af79e72e121e9ed2b966033089bf9ff59427b7ce/sources/World_manager_demostration.mp4
+https://github.com/LazyTitanik/RVIZ-plugins/assets/108675472/5a58d916-7fb4-4a1b-80c5-996bafa5f909
 
 ## WaypointPlanner tool
 
