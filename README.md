@@ -2,6 +2,10 @@
 
 This repository serves to show my contributions to developing tools for Multy robot system group.
 
+## World Manager
+
+https://github.com/LazyTitanik/RVIZ-plugins/blob/af79e72e121e9ed2b966033089bf9ff59427b7ce/sources/World_manager_demostration.mp4
+
 ## WaypointPlanner tool
 
 Allows sending a sequence of waypoints to drone.
