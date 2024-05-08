@@ -1,6 +1,13 @@
 # RVIZ plugins
-
 This repository serves to show my contributions to developing tools for Multi-Robot Systems group.
+
+<h3>Used technologies:</h3>  
+
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=cplusplus)
+![Qt](https://img.shields.io/badge/Qt-%2341CD52?style=for-the-badge&logo=qt&logoColor=white&logoSize=auto)
+![Cmake](https://img.shields.io/badge/cmake-%23064F8C?style=for-the-badge&logo=cmake&logoSize=auto)
+![Ros](https://img.shields.io/badge/ros-%2322314E?style=for-the-badge&logo=ros&logoSize=auto)
+![Boost](https://img.shields.io/badge/boost-%234a6484?style=for-the-badge&logo=boost&logoColor=white&logoSize=auto)
 
 # World Manager
 
