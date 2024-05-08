@@ -10,6 +10,8 @@ This repository serves to show my contributions to developing tools for Multi-Ro
 ![Boost](https://img.shields.io/badge/boost-%234a6484?style=for-the-badge&logo=boost&logoColor=white&logoSize=auto)
 
 # World Manager
+[Manager source code](https://github.com/ctu-mrs/mrs_uav_managers/blob/safety_area_manager/src/safety_area_manager/safety_area_manager.cpp)  
+[Tool source code](https://github.com/ctu-mrs/mrs_rviz_plugins/tree/control/src/world_manager)
 
 https://github.com/LazyTitanik/RVIZ-plugins/assets/108675472/5a58d916-7fb4-4a1b-80c5-996bafa5f909
 
